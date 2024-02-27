@@ -1,0 +1,28 @@
+
+.main_box{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.box1{
+    width: 250px;
+    height: 250px;
+    background-color: red;
+}
+.box2{
+    width: 250px;
+    height: 250px;
+    background-color: blue;
+
+}
+.box3{
+    width: 250px;
+    height: 250px;
+    background-color: yellow;
+
+}
+.box4{
+    width: 250px;
+    height: 250px;
+    background-color: green;
+}
